@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="20dp"
             android:layout_marginBottom="28dp"
-            android:backgroundTint="@color/pink"
+            android:backgroundTint="@color/blue"
             android:clickable="true"
             android:contentDescription="image"
             android:tintMode="@color/white"
@@ -35,7 +35,7 @@
             android:layout_height="match_parent"
             android:id="@+id/emptyNotesImage"
             android:visibility="gone"
-            android:src="@drawable/empty"/>
+            android:src="@drawable/noteimg"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
